@@ -58,6 +58,12 @@ render();
 
 // ===== Zona A: contador de pendientes (sesión 2) =====
 
+function actualizarContador() {
+  const pendientes = tareas.filter(tarea => !tarea.hecha).length;
+  document.getElementById('contador').textContent = pendientes + ' tareas pendientes';
+}
+document.addEventListener('tareas:cambio', actualizarContador);
+actualizarContador();
 
 
 // ===== Zona B: limpiar completadas (sesión 2) =====
