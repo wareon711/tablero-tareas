@@ -12,7 +12,9 @@ Abre `index.html` en el navegador. No necesita instalar nada.
 
 ## Equipo
 
-- Gibran Alonso Ibarra Palomares
+- Gibran Alonso Ibarra Palomares (Contador de pendientes)
+- Hector Eduardo Rojo Cota (Limpiar completadas)
+- Adilene Sillas (Tema oscuro)
 
 ## Cómo usarlo
 
@@ -20,8 +22,11 @@ Abre `index.html` en el navegador. No necesita instalar nada.
 2. Haz clic en la tarea para marcarla como hecha.
 3. Presiona **X** para borrarla.
 
-Repositorio: [tablero-tareas](https://github.com/wareon711/tablero-tareas.git)
+Repositorio: [tablero-tareas](https://github.com/wareon711/tablero-tareas.git)  
+Sitio publicado: [Demo en GitHub Pages](https://wareon711.github.io/tablero-tareas/)
 
 ## Funciones agregadas en el taller
 
-- (se llena en la sesión 2)
+- Contador de tareas pendientes (A - Gibran Alonso Ibarra Palomares)
+- Botón limpiar completadas (B - Hector Eduardo Rojo Cota)
+- Tema oscuro (C - Adilene Sillas)
